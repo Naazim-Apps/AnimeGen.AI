@@ -1,11 +1,10 @@
 # Welcome!
 
-This is yet another AI generator, but for Anime art only, so don't ask for specific art types.
+This is yet another AI generator, but for Anime art only, so don't ask for specific art types. The generator will create 6 images based on your prompt.
 
 ## Instructions
-1. Visit the [website](https://animegen.vercel.app/)
+1. Visit the [website](https://animegen2.vercel.app/)
 2. Type in a prompt
-
 
 ### Clone Method
 
