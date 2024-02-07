@@ -33,7 +33,14 @@ body {
 .container::before {
   content: "";
   position: absolute;
-  background-color: #2986cc;
+  background: linear-gradient(
+    0deg,
+    #47bcd5 19%,
+    #299de2 37%,
+    #2879d9 52%,
+    #2b3bc4 77%,
+    #2e189c 92%
+);
   width: 120px;
   height: 120px;
   filter: blur(140px);
