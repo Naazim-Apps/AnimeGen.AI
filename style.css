@@ -10,7 +10,7 @@
 body {
   position: relative;
   padding-bottom: 100px;
-  background: #1c2a1c;
+  background: #277ac8;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -33,7 +33,7 @@ body {
 .container::before {
   content: "";
   position: absolute;
-  background-color: #95d527;
+  background-color: #2986cc;
   width: 120px;
   height: 120px;
   filter: blur(140px);
